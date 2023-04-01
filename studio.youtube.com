@@ -1,5 +1,3 @@
-
-
 yt-formatted-string.style-scope.ytcp-comment {
   font-family: vazirmatn;
 }
@@ -70,5 +68,4 @@ div.style-scope.ytcp-comment-video-thumbnail {
 textarea.style-scope.tp-yt-iron-autogrow-textarea {
   font-family: vazirmatn;
   direction:rtl;
-
 }
