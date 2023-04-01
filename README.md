@@ -10,7 +10,7 @@
 
 
 
-## ۲— فونت وزیر متن (ترجیحا نسخه variable) رو نصب کنید[^۱]:
+## ۲— فونت وزیر متن (ترجیحا نسخه variable) [^۱]:
 
 https://rastikerdar.github.io/vazirmatn/fa
 
