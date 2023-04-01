@@ -10,7 +10,7 @@
 
 
 
-## ۲— فونت وزیر متن (ترجیحا نسخه variable) [^1]:
+## ۲— فونت وزیر متن (ترجیحا نسخه variable)[^1]:
 
 https://rastikerdar.github.io/vazirmatn/fa
 
